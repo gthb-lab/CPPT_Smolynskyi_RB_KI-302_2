@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ki032.Smolynskyi.Lab2","c":"AutomatApp","l":"AutomatApp()","u":"%3Cinit%3E()"},{"p":"ki032.Smolynskyi.Lab2","c":"AutomatApp","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
